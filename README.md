@@ -76,8 +76,8 @@ is an automation and DevOps professional by day, and a developer for the Automat
 
 When he is not working, he likes to spend his time brewing his own beer, curing his own bacon, and generally doing manual labor.
 
-## Other books by the authors
-[Powershell Core 6.2 Cookbook](https://www.packtpub.com/networking-and-servers/powershell-core-62-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789803303)
+## Other book by the author
+[Learn PowerShell Core 6.0](https://www.packtpub.com/networking-and-servers/learn-powershell-core-60?utm_source=github&utm_medium=repository&utm_campaign=9781788838986)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
