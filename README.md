@@ -64,7 +64,7 @@ Cloud services required:
 * Register for a free Google Cloud account at https://cloud.google.com to follow all Google Cloud recipes.
  
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789803303_ColorImages.pdf).
-* 
+ 
 ### Related products
 * Learn PowerShell Core 6.0 [[Packt]](https://www.packtpub.com/networking-and-servers/learn-powershell-core-60?utm_source=github&utm_medium=repository&utm_campaign=9781788838986) [[Amazon]](https://www.amazon.com/dp/178883898X)
 
